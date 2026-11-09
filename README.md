@@ -9,4 +9,4 @@ Di seguito sono elencati i progetti contenuti nel repository.
 Schemi elettrici per le schede dell'Unità Centrale di Neverina, sviluppate e realizzate su *perf-board* in giugno 2026. 
 
 # Autori
- - [Iacopo Ricci][https://iricci.frama.io/]
+ - [Iacopo Ricci](https://iricci.frama.io/)
